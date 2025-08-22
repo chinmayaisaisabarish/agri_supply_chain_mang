@@ -1,0 +1,11 @@
+{
+  "name": "agri-supply-chain-old-folder_without_node_modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
